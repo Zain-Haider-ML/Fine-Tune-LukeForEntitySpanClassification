@@ -1,4 +1,4 @@
-** LUKE for Entity Span Classification**
+# LUKE for Entity Span Classification
 
 ## Repository Description
 This repository contains a Jupyter Notebook demonstrating how to fine-tune and use the LUKE (Language Understanding with Knowledge-based Embeddings) model for **Entity Span Classification**. The notebook includes data preprocessing, training, inference, and performance evaluation steps, making it a comprehensive guide for Entity Span Classification (NER) using **Hugging Face Transformers**.
